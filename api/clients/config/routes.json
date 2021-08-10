@@ -7,7 +7,7 @@
       "config": {
         "policies": []
       }
-    },
+    },  
     {
       "method": "GET",
       "path": "/clients/count",
